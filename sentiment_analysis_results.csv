@@ -1,0 +1,6 @@
+Review,Sentiment,Score
+I absolutely love this product! It's amazing.,POSITIVE,0.9998855590820312
+"The service was terrible, and I’m never coming back.",NEGATIVE,0.9986364245414734
+"It was an okay experience, not great but not bad.",POSITIVE,0.9988283514976501
+The movie was a masterpiece! I would watch it again.,POSITIVE,0.9996699094772339
+I hated the food. It was the worst meal I've ever had.,NEGATIVE,0.999758780002594
